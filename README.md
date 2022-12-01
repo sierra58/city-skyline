@@ -1,2 +1,7 @@
 # city-skyline
-City Skyline | A tutorial by freeCodeCamp | [html, css, front-end web development, tutorial]
+
+## City Skyline
+- Tutorial by freeCodeCamp
+
+## Tags
+html, css, front-end web development, tutorial
